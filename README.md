@@ -11,4 +11,3 @@ This portfolio showcases selected independent projects, UX demos, and internal t
 ### 📁 Repo Structure
 - `target-checkout-demo/` → Mobile-first ecommerce UX redesign
 - `va-ux-demo/` → Government accessibility-focused flow
-- `salesforce-proposal-flow/` → Automated approval tool for public sector
