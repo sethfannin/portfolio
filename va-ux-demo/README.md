@@ -1,6 +1,6 @@
 #VA Prescription Refill UX Redesign
 
-Live Demo:** va-ux-demo.netlify.app
+Live Demo: va-ux-demo.netlify.app
 
 ⸻
 
