@@ -11,5 +11,5 @@ This portfolio showcases a curated collection of my independent projects and dem
 
 ### Upcoming Projects  
 
-- Webflow/Web Design Client Demos → Web design and automation projects for SMB clients *(coming soon)*  
-- AI Tools & Prototypes → Personal AI agents, prompt orchestration, and vibe-coded experiments *(coming soon)*  
+- [Webflow/Web Design Client Demos] → Web design and automation projects for SMB clients *(coming soon)*  
+- [AI Tools & Prototypes] → Personal AI agents, prompt orchestration, and vibe-coded experiments *(coming soon)*  
