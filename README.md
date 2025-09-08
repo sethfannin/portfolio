@@ -1,4 +1,4 @@
-# Seth Fannin – Portfolio  UX, Low-Code, AI Demos, & Automations Demos
+# Seth Fannin – Portfolio  UX, Low-Code, AI, & Automations Demos
 
 This portfolio showcases a curated collection of my independent projects and demos, ranging from UX redesigns and operational dashboards to AI-powered workflow apps. Includes Webflow builds, low-code automation prototypes, and vibe-coded personal experiments.
 
