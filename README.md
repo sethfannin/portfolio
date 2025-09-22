@@ -12,7 +12,7 @@ It includes Webflow builds, low-code prototypes, and process blueprints designed
 - [VA Prescription UX Flow](va-ux-demo/) → UX service redesign of VA prescription refill workflow  
 - [Ops Enablement Dashboard](ops-readiness-demo/) → Operational insights dashboard + enablement blueprint (Looker Studio + PDF)  
 - [GenAI 90-Day – Product Roadmap](genai-ops-roadmap/) → Structured GenAI delivery plan for engineering, compliance, and ops
-- [Applicant Tracking System (ATS) PRD – Salesforce](ats-prd-salesforce/) → Product Requirements Document (PRD) for an internal Applicant Tracking System (ATS) built on Salesforce. Covers workflow logic, recruiter dashboards,          approval flows, and automation architecture.
+- [Salesforce - Applicant Tracking System (ATS) PRD](ats-prd-salesforce/) → Product Requirements Document (PRD) for an internal Applicant Tracking System (ATS) built on Salesforce. Covers workflow logic, recruiter         dashboards, approval flows, and automation architecture.
 - [Target Checkout UX Redesign](target-checkout-demo/) → Mobile-first ecommerce checkout UX flow
 
 
