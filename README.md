@@ -9,7 +9,8 @@ This portfolio highlights my resume and a curated collection of independent proj
 
 ### 🔗 Featured Live Demos
 - [VA Prescription UX Flow](va-ux-demo/) → UX service redesign of VA prescription refill workflow  
-- [Ops Enablement Dashboard](ops-readiness-demo/) → Operational insights dashboard + enablement blueprint (Looker Studio + PDF)  
+- [Ops Enablement Dashboard](ops-readiness-demo/) → Operational insights dashboard + enablement blueprint (Looker Studio + PDF)
+- [Customer Success Ops – Automation Flow](cs-ops-automation-flow/) → Optimized Customer Success (CS) workflow integrating Gainsight, Salesforce, and Zapier.
 - [GenAI 90-Day – Product Roadmap](genai-ops-roadmap/) → Structured GenAI delivery plan for engineering, compliance, and ops
 - [Salesforce - Applicant Tracking System (ATS) PRD](ats-prd-salesforce/) → Product Requirements Document (PRD) for an internal Applicant Tracking System (ATS) built on Salesforce. Covers workflow logic, recruiter         dashboards, approval flows, and automation architecture.
 - [Target Checkout UX Redesign](target-checkout-demo/) → Mobile-first ecommerce checkout UX flow
