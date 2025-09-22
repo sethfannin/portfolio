@@ -1,7 +1,6 @@
 # Seth Fannin – Resume, UX, Low-Code, AI, Ops, & Automations Demos
 
-This portfolio highlights my resume and a curated collection of independent projects—ranging from UX redesigns and ops dashboards to AI-powered delivery workflows.  
-It includes Webflow builds, low-code prototypes, and process blueprints designed to help recruiters and hiring managers quickly understand my range, clarity of execution, and cross-functional depth.
+This portfolio highlights my resume and a curated collection of independent projects—ranging from UX redesigns and ops dashboards to AI-powered delivery workflows. It includes Webflow builds, low-code prototypes, and process blueprints designed to help recruiters and hiring managers quickly understand my range, clarity of execution, and cross-functional depth.
 
 
 ### 📄 Resume
