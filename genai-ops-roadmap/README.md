@@ -12,5 +12,5 @@ A cross-functional roadmap I created to support AI product delivery across engin
 ## 📄 Project Files
 
 - [📘 GenAI 90-Day Ramp-Up Plan (PRD)](GenAI_90Day_Roadmap_PRD.pdf)
-- ![📊 GenAI Visual Roadmap](GenAI_90Day_Roadmap.png)
+- [📊 GenAI Visual Roadmap](GenAI_90Day_Roadmap.png)
              
