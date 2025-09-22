@@ -10,6 +10,7 @@ This portfolio showcases my latest resume along with a curated collection of my 
 - [Target Checkout UX Redesign](https://target-mobile-checkout-ux-demo.netlify.app) → Mobile-first ecommerce checkout UX redesign  
 - [VA Prescription UX Flow](https://va-ux-demo.netlify.app) →  UX Service redesign of VA prescription refill workflow
 - [ops-readiness-demo/](./ops-readiness-demo) → Operational Insights Dashboard + Enablement Blueprint (Looker Studio + PDF)
+- 🤖 [GenAI 90-Day – Product Roadmap](https://github.com/sethfannin/portfolio/tree/main/genai-ops-roadmap) → Structured 90-day GenAI delivery plan spanning engineering, compliance, and operations. Includes PDF PRD + visual roadmap focused on ATO-aligned sprints and internal enablement.
 
 
 🚀 ## **Upcoming Projects**  
