@@ -1,0 +1,14 @@
+# ATS PRD – Salesforce Internal Tools
+
+This project outlines a Product Requirements Document (PRD) for an internal Applicant Tracking System (ATS) built in Salesforce. The document showcases how I would architect the system across user roles, flows, and AI-driven automations—based on my experience supporting secure Salesforce environments like Leidos.
+
+📄 **Included:**
+- [ATS_PRD_Salesforce.pdf](ATS_PRD_Salesforce.pdf) – Full document outlining:
+  - Custom objects for hiring lifecycle
+  - Record types, approval flows, access control
+  - Recruiter/user UX enhancements
+  - AI features: resume parsing, skill tagging, auto-matching
+  - Dashboards & compliance insights
+
+🧠 **Role Fit:**
+This project reflects my ability to straddle roles—Salesforce Dev, Product Ops, and internal tools strategist—while aligning tech delivery with mission needs in regulated environments.
