@@ -21,7 +21,8 @@ This visual automation flow illustrates how CS operations can be scaled through 
 ---
 
 ### 🖼️ Visual Overview
-![CS Automation Flow](./CS_Ops_Automation_Workflow.png)
+![Customer Success Workflow](./CS%20Ops%20Automation%20Workflow.png)
+[🔍 View Full Workflow](./CS%20Ops%20Automation%20Workflow.png)
 
 ---
 
