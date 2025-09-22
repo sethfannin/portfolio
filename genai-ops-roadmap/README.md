@@ -1,4 +1,4 @@
-# G🤖 GenAI 90-Day – Product Roadmap
+# 🤖 GenAI 90-Day – Product Roadmap
 
 A cross-functional roadmap I created to support AI product delivery across engineering, cyber, and DevOps. This framework accelerated delivery by 50% and was used in defense/government and commercial use cases.
 
