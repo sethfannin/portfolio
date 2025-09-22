@@ -8,5 +8,5 @@ A cross-functional roadmap I created to support AI product delivery across engin
 - Internal tooling & enablement flows
 
 ⏱️ Timeline: Structured 90-day execution plan  
-🔗 Included: genai-ops-roadmap/GenAI_90Day_Roadmap_PRD.pdf  
+🔗 Included: [genai-ops-roadmap/GenAI_90Day_Roadmap_PRD.pdf] 
              
