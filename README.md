@@ -4,7 +4,7 @@ This portfolio highlights my resume and a curated collection of independent proj
 
 
 ### 📄 Resume
-- [View My Resume (PDF)](https://github.com/sethfannin/portfolio/blob/main/resume/Seth-Fannin-Resume.pdf) → Full experience across defense contracting, project management, Salesforce development, product ops, and UX/AI automation.
+- [View My Latest Resume](https://github.com/sethfannin/portfolio/blob/main/Resume/Seth-Fannin-Resume.pdf) → Full experience across defense contracting, project management, Salesforce development, product ops, and UX/AI automation.
   
 
 ### 🔗 Featured Live Demos
