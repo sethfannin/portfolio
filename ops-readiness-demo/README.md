@@ -1,4 +1,4 @@
-# Operations & UX Performance Dashboard
+# internal Operations Dashboard & Blueprint 2025
 
 **Live Dashboard:** [Google Looker Studio Link](https://lookerstudio.google.com/reporting/67fad2f4-e8a9-41e0-9305-083fc6eb1dbb)  
 **Download Blueprint (PDF):** [ops-readiness-blueprint.pdf](./ops-readiness-blueprint.pdf)  
