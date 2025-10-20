@@ -8,7 +8,7 @@ This portfolio highlights my resume and a curated collection of independent proj
   
 
 ### 🔗 Featured Live Demos
-- [VA Prescription UX Flow](va-ux-demo/) → UX service redesign of VA prescription refill workflow  
+- [Veterans Affairs (VA) Service Design UX Demo (2025)](va-ux-demo/) → UX service redesign of VA prescription refill workflow  
 - [Internal Operations Dashboard & Blueprint (2025)](ops-readiness-demo/) → Ops Automation Flow – Dashboard + enablement blueprint (Looker Studio + PDF)
 - [Customer Success Ops – Automation Flow](cs-ops-automation-flow/) → Optimized Customer Success (CS) workflow integrating Gainsight, Salesforce, and Zapier.
 - [GenAI 90-Day – Product Roadmap](genai-ops-roadmap/) → Structured GenAI delivery plan for engineering, compliance, and ops
