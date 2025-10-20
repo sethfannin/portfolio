@@ -1,4 +1,4 @@
-# VA Prescription Refill UX Redesign
+# Veterans Affairs (VA) Service Design UX Demo (2025)
 
 **Live Demo:** [va-ux-demo.netlify.app](https://va-ux-demo.netlify.app)
 
