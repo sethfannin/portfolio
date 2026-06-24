@@ -1,4 +1,4 @@
-# Veterans Affairs (VA) Service Design UX Demo (2025)
+#Veterans Affairs Service Design & Journey Mapping Case Study
 
 **Live Demo:** [va-ux-demo.netlify.app](https://va-ux-demo.netlify.app)  
 **Companion PDF:** [COTS Onboarding Journey Map (PDF)](./VA_Onboarding_Journey_Map.pdf)
@@ -41,11 +41,11 @@ This case study reimagines the VA’s prescription refill and tool onboarding ex
 ---
 
 ## 🛠 Tools & Methods  
-- **Webflow (AI Builder):** for rapid prototyping & publishing.  
+- **Webflow:** for rapid prototyping & publishing.  
 - **LaTeX / TikZ:** for data visualization & PDF documentation.  
 - **WCAG/508 Compliance Patterns:** accessibility-first principles.  
 - **Netlify:** mobile-first HTML demo hosting.  
-- **AI (Gemini, Claude, GPT):** assisted with ideation, diagramming, and structure.  
+- **AI (Gemini, Claude, GPT):**AI-assisted research, service design synthesis, journey mapping, and prototyping using LLMs.  
 
 ---
 
