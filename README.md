@@ -1,6 +1,8 @@
-# Seth Fannin – Resume, UX, Low-Code, AI, Ops, & Automations Demos
+# Seth Fannin – AI Systems, Product Operations & Automation Portfolio
 
-This portfolio highlights my resume and a curated collection of independent projects—ranging from UX redesigns and ops dashboards to AI-powered delivery workflows. It includes Webflow builds, low-code prototypes, and process blueprints designed to help recruiters and hiring managers quickly understand my range, clarity of execution, and cross-functional depth.
+This portfolio highlights my work across AI systems, automation architecture, product operations, service design, and enterprise workflow modernization.
+Projects range from AI-powered operational systems and agent workflow experiments to service design, reporting architecture, and process automation initiatives.
+The goal is simple: demonstrate how complex operational problems can be transformed into scalable systems.
 
 
 ### 📄 Resume
@@ -8,14 +10,17 @@ This portfolio highlights my resume and a curated collection of independent proj
   
 
 ### 🔗 Featured Live Demos
-- [Veterans Affairs (VA) Service Design UX Demo (2025)](va-ux-demo/) → UX service redesign of VA prescription refill workflow  
-- [Internal Operations Dashboard & Blueprint (2025)](ops-readiness-demo/) → Ops Automation Flow – Dashboard + enablement blueprint (Looker Studio + PDF)
-- [Customer Success Ops – Automation Flow](cs-ops-automation-flow/) → Optimized Customer Success (CS) workflow integrating Gainsight, Salesforce, and Zapier.
-- [GenAI 90-Day – Product Roadmap](genai-ops-roadmap/) → Structured GenAI delivery plan for engineering, compliance, and ops
-- [Salesforce - Applicant Tracking System (ATS) PRD](ats-prd-salesforce/) → Product Requirements Document (PRD) for an internal Applicant Tracking System (ATS) built on Salesforce. Covers workflow logic, recruiter         dashboards, approval flows, and automation architecture.
-- [Target Checkout UX Redesign](target-checkout-demo/) → Mobile-first ecommerce checkout UX flow
+1. AI Voice/Text → Execution Planning Engine
+2. Agent Workflow Architecture Lab
+3. AI Research & RevOps Intelligence System
+4. Veterans Affairs (VA) Service Design UX Demo
+5. Internal Operations Dashboard & Blueprint
+6. Salesforce Applicant Tracking System (ATS) PRD
+7. Target Checkout UX Redesign
 
 
 ### 🚀 Upcoming Projects
-- (Webflow + Web Design Client Demos) → Web and automation design (coming soon)  
-- (AI Tools & Prototypes) → Personal AI agents, automation scripts, and vibe-coded experiments (coming soon)
+🚀 Upcoming Projects
+- Revenue Friction Engine → AI-assisted business friction analysis and operational intelligence platform
+- AI Operational Systems Lab → Agent workflows, orchestration patterns, human-in-the-loop automation, and operational decision support
+- AI Workflow Case Studies → Real-world examples of automation, reporting modernization, and systems design
